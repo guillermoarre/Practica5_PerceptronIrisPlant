@@ -1,0 +1,11 @@
+C:\Users\Fawmu\Desktop\Practica5_PerceptronIris\bin\Debug\Practica5_PerceptronIris.exe.config
+C:\Users\Fawmu\Desktop\Practica5_PerceptronIris\bin\Debug\Practica5_PerceptronIris.exe
+C:\Users\Fawmu\Desktop\Practica5_PerceptronIris\bin\Debug\Practica5_PerceptronIris.pdb
+C:\Users\Fawmu\Desktop\Practica5_PerceptronIris\obj\Debug\Practica5_PerceptronIris.csproj.AssemblyReference.cache
+C:\Users\Fawmu\Desktop\Practica5_PerceptronIris\obj\Debug\Practica5_PerceptronIris.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fawmu\Desktop\Practica5_PerceptronIris\obj\Debug\Practica5_PerceptronIris.Form1.resources
+C:\Users\Fawmu\Desktop\Practica5_PerceptronIris\obj\Debug\Practica5_PerceptronIris.Properties.Resources.resources
+C:\Users\Fawmu\Desktop\Practica5_PerceptronIris\obj\Debug\Practica5_PerceptronIris.csproj.GenerateResource.cache
+C:\Users\Fawmu\Desktop\Practica5_PerceptronIris\obj\Debug\Practica5_PerceptronIris.csproj.CoreCompileInputs.cache
+C:\Users\Fawmu\Desktop\Practica5_PerceptronIris\obj\Debug\Practica5_PerceptronIris.exe
+C:\Users\Fawmu\Desktop\Practica5_PerceptronIris\obj\Debug\Practica5_PerceptronIris.pdb
